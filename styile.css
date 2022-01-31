@@ -640,6 +640,16 @@ footer span a:hover{
     }
 }
 @media (max-width: 500px) {
+    .home{
+    display: flex;
+    background: url("./dark-green-plant-g0c787db00_640.jpg") no-repeat center transparent;
+    height: 100vh;
+    color: #fff;
+    min-height: 400px;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Ubuntu', sans-serif;
+}
     .home .home-content .text-2{
         font-size: 40px;
     }
